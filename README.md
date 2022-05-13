@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" width="100"/>
+  <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="400"/>
 </div>
 
 <div id="badges">
