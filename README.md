@@ -40,3 +40,6 @@ Knowledge
 </div>
 <br><br>
 [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/apiRanca2609=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/apiRanca2609=anuraghazra&hide=contribs,prs)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/apiRanca2609=anuraghazra&count_private=true)
+
