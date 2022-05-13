@@ -39,6 +39,7 @@ Knowledge
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 <br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranca2609&theme=radical)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ranca2609&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranca2609&langs_count=5&theme=tokyonight)]()
 
 
