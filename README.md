@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg" width="100"/>
+  <img src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" width="100"/>
 </div>
 
 <div id="badges">
