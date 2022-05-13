@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranca2609&langs_private=true&theme=tokyonight)]()
 <br><br>
 
 Knowledge
