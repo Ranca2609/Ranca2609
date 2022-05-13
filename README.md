@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg" width="100"/>
 </div>
+
+<div id="badges">
+  <a href="https://twitter.com/CarlosR11966847">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
