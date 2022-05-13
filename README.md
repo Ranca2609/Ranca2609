@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ranca2609&count_private=true&theme=tokyonight&showicons=true)]()
+
 <div id="header" align="center">
   <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="400"/>
 </div>
@@ -39,7 +41,6 @@ Knowledge
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 <br><br>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ranca2609&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranca2609&langs_count=5&theme=tokyonight)]()
+
 
 
