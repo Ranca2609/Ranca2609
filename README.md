@@ -38,3 +38,5 @@ Knowledge
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
+<br><br>
+[![Estadísticas de GitHub de Carlos Rangel](https://github-readme-stats.vercel.app/api Ranca2609=anuraghazra )](https://github.com/anuraghazra/github-readme-stats)
