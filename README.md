@@ -39,6 +39,6 @@ Knowledge
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 <br><br>
-
+![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranca2609&hide=contribs,prs)
 
 
