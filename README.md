@@ -19,11 +19,7 @@ Here are some ideas to get you started:
   <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="400"/>
 </div>
 
-<div id="badges">
-  <a href="https://twitter.com/CarlosR11966847">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 <br><br>
 
